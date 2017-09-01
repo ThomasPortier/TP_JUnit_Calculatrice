@@ -18,7 +18,7 @@ public class CalculatriceTest {
 		double a = 1;
 		double b = 3;
 		double retour = calculatrice.addition(a, b);
-		assertEquals( 3.0, retour, 0);
+		assertEquals( 4.0, retour, 0);
 	}
 
 	@Test
